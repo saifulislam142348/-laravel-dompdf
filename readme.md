@@ -128,3 +128,4 @@ You can use the CSS `page-break-before`/`page-break-after` properties to create 
 ### License
 
 This DOMPDF Wrapper for Laravel is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+https://webjourney.dev/laravel-9-pdf-generate-using-barryvdh-dompdf-invoice-generate-dwnload-invoice
